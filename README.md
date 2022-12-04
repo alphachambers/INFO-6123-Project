@@ -23,4 +23,15 @@ Headers were used as a tool for structuring and organising content on a webpage.
 _Alt tag for images:_
 Assigning alt tags to images will therefore give users a description of the image so they can understand it when using a screen reader.
 
+**SEO**
+_Correct Use of Tags_ 
+To give the content structure and clarity, header tags were properly utilised. headings were employed in a controlled manner and in accordance with their inherent hierarchies.
+_Structure_
+It was made sure that the website's structure is complete and logical.
+_Page Title and Description_
+Page title was added in web page head element. The description is indexed and may be used by search engines as a summary of the contents of your page.
+
+
+
+
 
