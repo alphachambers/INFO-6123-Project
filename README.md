@@ -30,8 +30,3 @@ _Structure_
 It was made sure that the website's structure is complete and logical.
 _Page Title and Description_
 Page title was added in web page head element. The description is indexed and may be used by search engines as a summary of the contents of your page.
-
-
-
-
-
